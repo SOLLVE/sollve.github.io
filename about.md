@@ -25,7 +25,7 @@ permalink: /about/
 ### Brookhaven National Laboratory (BNL)
  * Vivek Kale
  * Abid Malik
- * Dossay Oryspayev
+ * [Dossay Oryspayev](https://www.bnl.gov/staff/doryspaye)
 
 ### Lawrence Livermore National Laboratory (LLNL)
  * Thomas Scogland
