@@ -8,7 +8,7 @@ repository: sollve/llvm
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 show_excerpts: true
 
 
