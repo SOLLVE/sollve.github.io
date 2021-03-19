@@ -7,7 +7,7 @@ title: "Training & Outreach"
 
 ### OpenMP Users Monthly Telecons
 
-We started to hold [OpenMP Users Monthly Telecons](https://www.openmp.org/events/ecp-sollve-openmp-monthly-teleconference/) on last Friday of each month.
+We are organizing [OpenMP Users Monthly Telecons](https://www.openmp.org/events/ecp-sollve-openmp-monthly-teleconference/) on last Friday of each month.
 
 ### 2021 SOLLVE/NERSC Hackathon
 
