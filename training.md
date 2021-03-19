@@ -5,9 +5,9 @@ title: "Training & Outreach"
 
 ## Events
 
-### OpenMP Users Monthly Telecon
+### OpenMP Users Monthly Telecons
 
-We had our first [OpenMP Users Monthly Telecon](https://www.exascaleproject.org/event/sollve-monthly-telecons/) on February 26th, 2021. Second one is to be held on March 26th, 2021.
+We started to hold [OpenMP Users Monthly Telecons](https://www.openmp.org/events/ecp-sollve-openmp-monthly-teleconference/) on last Friday of each month.
 
 ### 2021 SOLLVE/NERSC Hackathon
 
