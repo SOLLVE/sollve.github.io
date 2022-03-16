@@ -33,6 +33,6 @@ SOLLVE proposes an application-driven approach that requires us to interact exte
  * [SOLLVE at ECP Confluence](https://confluence.exascaleproject.org/display/STPM15) (restricted)
  * [SOLLVE at ECP Jira](https://jira.exascaleproject.org/projects/STPM15) (restricted)
  
- * [Offical OpenMP Website](https://www.openm.org/)
+ * [Offical OpenMP Website](https://www.openmp.org/)
  * [OpenMP GitHub Repositories](https://github.com/openmp)
  * [OpenMP TWiki](https://twiki.openmp.org/bin/view/OpenMPLang/WebHome) (restricted)
